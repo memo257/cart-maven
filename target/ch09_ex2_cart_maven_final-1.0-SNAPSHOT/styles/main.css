@@ -1,0 +1,57 @@
+/* The styles for the elements */
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1 {     
+    font-size: 140%;
+    color: teal;
+    margin-bottom: .5em;    
+}
+br {
+    clear: both;
+}
+
+#quantity {
+    width: 2em;
+}
+
+/* The styles for the tables */
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50em;
+}
+th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: .5em;
+}
+.right {
+    text-align: right;
+}
+
+.my-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Set your desired background color */
+    color: #fff; /* Set the text color */
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.my-button:hover {
+    background-color: #0056b3; /* Change the background color on hover */
+}
+.returnHome{
+    font-size: 20px;
+    text-align: center;
+}
+
+.devnote p{
+    max-width: 49%;
+
+}
