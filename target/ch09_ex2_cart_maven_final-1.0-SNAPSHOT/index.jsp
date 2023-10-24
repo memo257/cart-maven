@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles/main.css" type="text/css"/>
 </head>
 <body>
-    <a href="https://memo2572003-cdd24867e0ef.herokuapp.com" class="my-button">My home page</a>
+    <a href="https://profile-e7iv.onrender.com/profile-1.0-SNAPSHOT" class="my-button">My home page</a>
 <h1>CD list</h1>
 <table>
     
@@ -47,6 +47,6 @@
         <p>I will try my best to fix this issue soon. I just hope it's not on the list of unanswerable things in my life</p>
     </div>   
     <br> 
-    <a class = "returnHome" href="https://thangmainpage-f659678d7b24.herokuapp.com/#listEx"><i class="fa-solid fa-house"></i> &#127968 Back To Main Page</a>
+    <a class = "returnHome" href="https://profile-e7iv.onrender.com/profile-1.0-SNAPSHOT"><i class="fa-solid fa-house"></i> &#127968 Back To Main Page</a>
 </body>
 </html>
