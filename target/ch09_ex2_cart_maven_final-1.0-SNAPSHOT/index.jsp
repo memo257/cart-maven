@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles/main.css" type="text/css"/>
 </head>
 <body>
-    <a href="https://profile-e7iv.onrender.com/profile-1.0-SNAPSHOT" class="my-button">My home page</a>
+    
 <h1>CD list</h1>
 <table>
     
